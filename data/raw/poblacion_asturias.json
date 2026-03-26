@@ -1,0 +1,476 @@
+[
+  {
+    "nombre": "Asturias",
+    "codigo_ine": "DPOP15001",
+    "poblacion": 1013529.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Allande",
+    "codigo_ine": "DPOP15004",
+    "poblacion": 1506.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Aller",
+    "codigo_ine": "DPOP15007",
+    "poblacion": 10011.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Amieva",
+    "codigo_ine": "DPOP15010",
+    "poblacion": 591.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Avilés",
+    "codigo_ine": "DPOP15013",
+    "poblacion": 75517.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Belmonte de Miranda",
+    "codigo_ine": "DPOP15016",
+    "poblacion": 1366.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Bimenes",
+    "codigo_ine": "DPOP15019",
+    "poblacion": 1639.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Boal",
+    "codigo_ine": "DPOP15022",
+    "poblacion": 1372.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Cabrales",
+    "codigo_ine": "DPOP15025",
+    "poblacion": 1884.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Cabranes",
+    "codigo_ine": "DPOP15028",
+    "poblacion": 1094.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Candamo",
+    "codigo_ine": "DPOP15031",
+    "poblacion": 1902.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Cangas de Onís",
+    "codigo_ine": "DPOP15037",
+    "poblacion": 6344.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Cangas del Narcea",
+    "codigo_ine": "DPOP15034",
+    "poblacion": 11282.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Caravia",
+    "codigo_ine": "DPOP15040",
+    "poblacion": 486.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Carreño",
+    "codigo_ine": "DPOP15043",
+    "poblacion": 10292.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Caso",
+    "codigo_ine": "DPOP15046",
+    "poblacion": 1437.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Castrillón",
+    "codigo_ine": "DPOP15049",
+    "poblacion": 21998.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Castropol",
+    "codigo_ine": "DPOP15052",
+    "poblacion": 3202.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Coaña",
+    "codigo_ine": "DPOP15055",
+    "poblacion": 3321.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Colunga",
+    "codigo_ine": "DPOP15058",
+    "poblacion": 3143.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Corvera de Asturias",
+    "codigo_ine": "DPOP15061",
+    "poblacion": 15785.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Cudillero",
+    "codigo_ine": "DPOP15064",
+    "poblacion": 4867.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Degaña",
+    "codigo_ine": "DPOP15067",
+    "poblacion": 768.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Franco, El",
+    "codigo_ine": "DPOP15070",
+    "poblacion": 3728.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Gijón",
+    "codigo_ine": "DPOP15073",
+    "poblacion": 269894.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Gozón",
+    "codigo_ine": "DPOP15076",
+    "poblacion": 10407.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Grado",
+    "codigo_ine": "DPOP15079",
+    "poblacion": 9681.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Grandas de Salime",
+    "codigo_ine": "DPOP15082",
+    "poblacion": 767.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Ibias",
+    "codigo_ine": "DPOP15085",
+    "poblacion": 1084.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Illano",
+    "codigo_ine": "DPOP15088",
+    "poblacion": 277.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Illas",
+    "codigo_ine": "DPOP15091",
+    "poblacion": 1048.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Langreo",
+    "codigo_ine": "DPOP15094",
+    "poblacion": 38612.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Laviana",
+    "codigo_ine": "DPOP15097",
+    "poblacion": 12352.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Lena",
+    "codigo_ine": "DPOP15100",
+    "poblacion": 10382.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Llanera",
+    "codigo_ine": "DPOP15106",
+    "poblacion": 14020.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Llanes",
+    "codigo_ine": "DPOP15109",
+    "poblacion": 13486.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Mieres",
+    "codigo_ine": "DPOP15112",
+    "poblacion": 36373.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Morcín",
+    "codigo_ine": "DPOP15115",
+    "poblacion": 2460.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Muros de Nalón",
+    "codigo_ine": "DPOP15118",
+    "poblacion": 1955.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Nava",
+    "codigo_ine": "DPOP15121",
+    "poblacion": 5244.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Navia",
+    "codigo_ine": "DPOP15124",
+    "poblacion": 8031.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Noreña",
+    "codigo_ine": "DPOP15127",
+    "poblacion": 5131.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Onís",
+    "codigo_ine": "DPOP15130",
+    "poblacion": 739.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Oviedo",
+    "codigo_ine": "DPOP15133",
+    "poblacion": 223968.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Parres",
+    "codigo_ine": "DPOP15136",
+    "poblacion": 5150.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Peñamellera Alta",
+    "codigo_ine": "DPOP15139",
+    "poblacion": 500.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Peñamellera Baja",
+    "codigo_ine": "DPOP15142",
+    "poblacion": 1194.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Pesoz",
+    "codigo_ine": "DPOP15145",
+    "poblacion": 134.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Piloña",
+    "codigo_ine": "DPOP15148",
+    "poblacion": 6716.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Ponga",
+    "codigo_ine": "DPOP15151",
+    "poblacion": 576.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Pravia",
+    "codigo_ine": "DPOP15154",
+    "poblacion": 7792.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Proaza",
+    "codigo_ine": "DPOP15157",
+    "poblacion": 686.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Quirós",
+    "codigo_ine": "DPOP15160",
+    "poblacion": 1142.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Regueras, Las",
+    "codigo_ine": "DPOP15163",
+    "poblacion": 1892.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Ribadedeva",
+    "codigo_ine": "DPOP15166",
+    "poblacion": 1693.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Ribadesella",
+    "codigo_ine": "DPOP15169",
+    "poblacion": 5591.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Ribera de Arriba",
+    "codigo_ine": "DPOP15172",
+    "poblacion": 1852.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Riosa",
+    "codigo_ine": "DPOP15175",
+    "poblacion": 1686.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Salas",
+    "codigo_ine": "DPOP15178",
+    "poblacion": 4771.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "San Martín de Oscos",
+    "codigo_ine": "DPOP15184",
+    "poblacion": 337.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "San Martín del Rey Aurelio",
+    "codigo_ine": "DPOP15181",
+    "poblacion": 15531.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "San Tirso de Abres",
+    "codigo_ine": "DPOP15190",
+    "poblacion": 396.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Santa Eulalia de Oscos",
+    "codigo_ine": "DPOP15187",
+    "poblacion": 420.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Santo Adriano",
+    "codigo_ine": "DPOP15193",
+    "poblacion": 281.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Sariego",
+    "codigo_ine": "DPOP15196",
+    "poblacion": 1252.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Siero",
+    "codigo_ine": "DPOP15199",
+    "poblacion": 53049.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Sobrescobio",
+    "codigo_ine": "DPOP15202",
+    "poblacion": 838.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Somiedo",
+    "codigo_ine": "DPOP15205",
+    "poblacion": 1031.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Soto del Barco",
+    "codigo_ine": "DPOP15208",
+    "poblacion": 3801.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Tapia de Casariego",
+    "codigo_ine": "DPOP15211",
+    "poblacion": 3538.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Taramundi",
+    "codigo_ine": "DPOP15214",
+    "poblacion": 545.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Teverga",
+    "codigo_ine": "DPOP15217",
+    "poblacion": 1495.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Tineo",
+    "codigo_ine": "DPOP15220",
+    "poblacion": 8679.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Valdés",
+    "codigo_ine": "DPOP15103",
+    "poblacion": 10776.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Vegadeo",
+    "codigo_ine": "DPOP15223",
+    "poblacion": 3928.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Villanueva de Oscos",
+    "codigo_ine": "DPOP15226",
+    "poblacion": 244.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Villaviciosa",
+    "codigo_ine": "DPOP15229",
+    "poblacion": 15379.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Villayón",
+    "codigo_ine": "DPOP15232",
+    "poblacion": 1054.0,
+    "anio": 2025
+  },
+  {
+    "nombre": "Yernes y Tameza",
+    "codigo_ine": "DPOP15235",
+    "poblacion": 134.0,
+    "anio": 2025
+  }
+]
