@@ -1,73 +1,10 @@
 [
   {
-    "concejo":"taramundi",
-    "num_locales":4,
-    "poblacion":545,
-    "anio":2025,
-    "locales_por_1000hab":7.34
-  },
-  {
     "concejo":"boal",
     "num_locales":6,
     "poblacion":1372,
     "anio":2025,
     "locales_por_1000hab":4.37
-  },
-  {
-    "concejo":"proaza",
-    "num_locales":3,
-    "poblacion":686,
-    "anio":2025,
-    "locales_por_1000hab":4.37
-  },
-  {
-    "concejo":"santa eulalia de oscos",
-    "num_locales":1,
-    "poblacion":420,
-    "anio":2025,
-    "locales_por_1000hab":2.38
-  },
-  {
-    "concejo":"tapia de casariego",
-    "num_locales":7,
-    "poblacion":3538,
-    "anio":2025,
-    "locales_por_1000hab":1.98
-  },
-  {
-    "concejo":"colunga",
-    "num_locales":5,
-    "poblacion":3143,
-    "anio":2025,
-    "locales_por_1000hab":1.59
-  },
-  {
-    "concejo":"oviedo",
-    "num_locales":353,
-    "poblacion":223968,
-    "anio":2025,
-    "locales_por_1000hab":1.58
-  },
-  {
-    "concejo":"sobrescobio",
-    "num_locales":1,
-    "poblacion":838,
-    "anio":2025,
-    "locales_por_1000hab":1.19
-  },
-  {
-    "concejo":"castropol",
-    "num_locales":3,
-    "poblacion":3202,
-    "anio":2025,
-    "locales_por_1000hab":0.94
-  },
-  {
-    "concejo":"nava",
-    "num_locales":4,
-    "poblacion":5244,
-    "anio":2025,
-    "locales_por_1000hab":0.76
   },
   {
     "concejo":"vegadeo",
@@ -77,88 +14,81 @@
     "locales_por_1000hab":0.76
   },
   {
-    "concejo":"navia",
-    "num_locales":6,
-    "poblacion":8031,
+    "concejo":"oviedo",
+    "num_locales":138,
+    "poblacion":223968,
     "anio":2025,
-    "locales_por_1000hab":0.75
+    "locales_por_1000hab":0.62
   },
   {
-    "concejo":"gijón",
-    "num_locales":158,
-    "poblacion":269894,
+    "concejo":"tapia de casariego",
+    "num_locales":2,
+    "poblacion":3538,
     "anio":2025,
-    "locales_por_1000hab":0.59
+    "locales_por_1000hab":0.57
+  },
+  {
+    "concejo":"navia",
+    "num_locales":3,
+    "poblacion":8031,
+    "anio":2025,
+    "locales_por_1000hab":0.37
+  },
+  {
+    "concejo":"colunga",
+    "num_locales":1,
+    "poblacion":3143,
+    "anio":2025,
+    "locales_por_1000hab":0.32
+  },
+  {
+    "concejo":"castropol",
+    "num_locales":1,
+    "poblacion":3202,
+    "anio":2025,
+    "locales_por_1000hab":0.31
   },
   {
     "concejo":"avilés",
-    "num_locales":42,
+    "num_locales":19,
     "poblacion":75517,
     "anio":2025,
-    "locales_por_1000hab":0.56
+    "locales_por_1000hab":0.25
   },
   {
-    "concejo":"llanes",
-    "num_locales":4,
-    "poblacion":13486,
+    "concejo":"mieres",
+    "num_locales":9,
+    "poblacion":36373,
     "anio":2025,
-    "locales_por_1000hab":0.3
+    "locales_por_1000hab":0.25
   },
   {
-    "concejo":"villaviciosa",
-    "num_locales":4,
-    "poblacion":15379,
-    "anio":2025,
-    "locales_por_1000hab":0.26
-  },
-  {
-    "concejo":"salas",
+    "concejo":"nava",
     "num_locales":1,
-    "poblacion":4771,
-    "anio":2025,
-    "locales_por_1000hab":0.21
-  },
-  {
-    "concejo":"gozón",
-    "num_locales":2,
-    "poblacion":10407,
+    "poblacion":5244,
     "anio":2025,
     "locales_por_1000hab":0.19
   },
   {
-    "concejo":"cangas del narcea",
+    "concejo":"gijón",
+    "num_locales":52,
+    "poblacion":269894,
+    "anio":2025,
+    "locales_por_1000hab":0.19
+  },
+  {
+    "concejo":"langreo",
+    "num_locales":7,
+    "poblacion":38612,
+    "anio":2025,
+    "locales_por_1000hab":0.18
+  },
+  {
+    "concejo":"llanes",
     "num_locales":2,
-    "poblacion":11282,
+    "poblacion":13486,
     "anio":2025,
-    "locales_por_1000hab":0.18
-  },
-  {
-    "concejo":"ribadesella",
-    "num_locales":1,
-    "poblacion":5591,
-    "anio":2025,
-    "locales_por_1000hab":0.18
-  },
-  {
-    "concejo":"pravia",
-    "num_locales":1,
-    "poblacion":7792,
-    "anio":2025,
-    "locales_por_1000hab":0.13
-  },
-  {
-    "concejo":"tineo",
-    "num_locales":1,
-    "poblacion":8679,
-    "anio":2025,
-    "locales_por_1000hab":0.12
-  },
-  {
-    "concejo":"grado",
-    "num_locales":1,
-    "poblacion":9681,
-    "anio":2025,
-    "locales_por_1000hab":0.1
+    "locales_por_1000hab":0.15
   },
   {
     "concejo":"carreño",
@@ -168,31 +98,17 @@
     "locales_por_1000hab":0.1
   },
   {
-    "concejo":"mieres",
-    "num_locales":3,
-    "poblacion":36373,
-    "anio":2025,
-    "locales_por_1000hab":0.08
-  },
-  {
-    "concejo":"langreo",
-    "num_locales":3,
-    "poblacion":38612,
-    "anio":2025,
-    "locales_por_1000hab":0.08
-  },
-  {
-    "concejo":"llanera",
+    "concejo":"cangas del narcea",
     "num_locales":1,
-    "poblacion":14020,
+    "poblacion":11282,
+    "anio":2025,
+    "locales_por_1000hab":0.09
+  },
+  {
+    "concejo":"villaviciosa",
+    "num_locales":1,
+    "poblacion":15379,
     "anio":2025,
     "locales_por_1000hab":0.07
-  },
-  {
-    "concejo":"siero",
-    "num_locales":1,
-    "poblacion":53049,
-    "anio":2025,
-    "locales_por_1000hab":0.02
   }
 ]

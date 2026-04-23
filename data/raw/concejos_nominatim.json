@@ -1,0 +1,92 @@
+[
+  {
+    "concejo": "Oviedo",
+    "lat": 43.3533452,
+    "lon": -5.8795096,
+    "nombre_osm": "Oviedo, Asturias / Asturies, España"
+  },
+  {
+    "concejo": "Gijón",
+    "lat": 43.5449422,
+    "lon": -5.66275,
+    "nombre_osm": "Gijón / Xixón, Asturias / Asturies, España"
+  },
+  {
+    "concejo": "Avilés",
+    "lat": 43.5554436,
+    "lon": -5.9222466,
+    "nombre_osm": "Avilés, Asturias / Asturies, España"
+  },
+  {
+    "concejo": "Siero",
+    "lat": 43.394024,
+    "lon": -5.6349173,
+    "nombre_osm": "Siero, Asturias / Asturies, España"
+  },
+  {
+    "concejo": "Langreo",
+    "lat": 43.2950131,
+    "lon": -5.683431,
+    "nombre_osm": "Llangréu / Langreo, Asturias / Asturies, España"
+  },
+  {
+    "concejo": "Mieres",
+    "lat": 43.2349958,
+    "lon": -5.769932,
+    "nombre_osm": "Mieres, Asturias / Asturies, España"
+  },
+  {
+    "concejo": "Cangas de Onís",
+    "lat": 43.3136138,
+    "lon": -5.0658503,
+    "nombre_osm": "Cangas de Onís, Asturias / Asturies, España"
+  },
+  {
+    "concejo": "Llanes",
+    "lat": 43.4211205,
+    "lon": -4.7530835,
+    "nombre_osm": "Llanes, Asturias / Asturies, España"
+  },
+  {
+    "concejo": "Villaviciosa",
+    "lat": 43.4813776,
+    "lon": -5.4344978,
+    "nombre_osm": "Villaviciosa, Asturias / Asturies, España"
+  },
+  {
+    "concejo": "Navia",
+    "lat": 43.5391112,
+    "lon": -6.7233704,
+    "nombre_osm": "Navia, Asturias / Asturies, España"
+  },
+  {
+    "concejo": "Luarca",
+    "lat": 43.5359649,
+    "lon": -6.5265455,
+    "nombre_osm": "Ḷḷuarca, Valdés, Asturias / Asturies, 33700, España"
+  },
+  {
+    "concejo": "Ribadesella",
+    "lat": 43.4456557,
+    "lon": -5.0835484,
+    "nombre_osm": "Ribadesella/Ribeseya, Asturias / Asturies, España"
+  },
+  {
+    "concejo": "Arriondas",
+    "lat": 43.3892173,
+    "lon": -5.1848708,
+    "nombre_osm": "Arriondas / Les Arriondes, Parres, Asturias / Asturies, 33540, España"
+  },
+  {
+    "concejo": "Pola de Siero",
+    "lat": 43.3879615,
+    "lon": -5.6649428,
+    "nombre_osm": "Pola de Siero, Estacion de La Pola, La Pola Siero, Siero, Asturias / Asturies, 33510, España"
+  },
+  {
+    "concejo": "Cangas del Narcea",
+    "lat": 43.1774374,
+    "lon": -6.5499784,
+    "nombre_osm": "Cangas del Narcea, Asturias / Asturies, España"
+  }
+]
