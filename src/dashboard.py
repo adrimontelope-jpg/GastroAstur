@@ -10,15 +10,15 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# ── Paleta de colores ──────────────────────────────────────────────────────────
+#Paleta de colores 
 COLORES = ["#2c7bb6", "#e07b39", "#27ae60", "#d62728", "#9467bd", "#8c564b"]
 
-# ── Carga y normalización de datos ────────────────────────────────────────────
+#Carga y normalización de datos
 @st.cache_data
 def cargar_datos():
     df = pd.read_json("data/processed/restaurantes_clean.json")
 
-    # Normalizar variantes de nombres de ciudad (bilinguismo asturiano)
+    #Normalizar variantes de nombres de ciudad (bilinguismo asturiano)
     variantes = {
         "gijón/xixón": "gijón",
         "oviedo/uviéu": "oviedo",
@@ -46,12 +46,12 @@ def cargar_datos():
 
 df, df_cruce, df_wiki = cargar_datos()
 
-# ── Métricas de calidad del dato ───────────────────────────────────────────────
+#Métricas de calidad del dato
 pct_nombre = 100 * df["nombre"].notna().mean()
 pct_cocina = 100 * df["cocina"].notna().mean()
 pct_geo = 100 * (df["lat"].notna() & df["lon"].notna()).mean()
 
-# ── Sidebar ───────────────────────────────────────────────────────────────────
+#Sidebar
 with st.sidebar:
     st.title("GastroAstur")
     st.caption("Gastronomía asturiana con datos abiertos")
@@ -71,15 +71,15 @@ with st.sidebar:
     st.divider()
     st.caption("Fuentes: OSM · INE · Nominatim · Wikidata")
 
-# ── Header ────────────────────────────────────────────────────────────────────
-st.title("🍽️ GastroAstur")
+#Header
+st.title("GastroAstur")
 st.markdown(
     "Análisis exploratorio de la gastronomía asturiana combinando datos de "
     "**OpenStreetMap**, **INE**, **Nominatim** y **Wikidata**."
 )
 
 tab1, tab2, tab3, tab4, tab5 = st.tabs(
-    ["📊 Visión General", "🗺️ Mapa", "🏙️ Análisis Territorial", "🧀 Gastronomía Asturiana", "🤖 Predicción ML"]
+    ["Visión General", "Mapa", "Análisis Territorial", "Gastronomía Asturiana", "Predicción ML"]
 )
 
 # ─────────────────────────────────────────────────────────────────────────────
