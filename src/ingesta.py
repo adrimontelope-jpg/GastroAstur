@@ -30,7 +30,7 @@ def fetch_data(query: str) -> dict:
         OVERPASS_URL,
         data={"data": query},
         headers={"User-Agent": "GastroAstur/1.0 (proyecto educativo)"},
-        timeout=90,
+        timeout=120,
     )
     response.raise_for_status()
     return response.json()
@@ -220,10 +220,7 @@ def fetch_wikidata_gastronomia() -> None:
     except requests.exceptions.RequestException as e:
         print(f"  ERROR: {e}")
  
-    except requests.exceptions.RequestException as e:
-        print(f"  ERROR: {e}")
- 
- 
+    
 if __name__ == "__main__":
     run_ingesta()
     fetch_poblacion_asturias()

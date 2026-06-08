@@ -25,13 +25,13 @@
   },
   {
     "concejo": "Langreo",
-    "lat": 43.2950131,
-    "lon": -5.683431,
+    "lat": 43.3057608,
+    "lon": -5.6960801,
     "nombre_osm": "Llangréu / Langreo, Asturias / Asturies, España"
   },
   {
     "concejo": "Mieres",
-    "lat": 43.2349958,
+    "lat": 43.2349957,
     "lon": -5.769932,
     "nombre_osm": "Mieres, Asturias / Asturies, España"
   },
@@ -55,8 +55,8 @@
   },
   {
     "concejo": "Navia",
-    "lat": 43.5391112,
-    "lon": -6.7233704,
+    "lat": 43.5275049,
+    "lon": -6.6755155,
     "nombre_osm": "Navia, Asturias / Asturies, España"
   },
   {
@@ -73,20 +73,20 @@
   },
   {
     "concejo": "Arriondas",
-    "lat": 43.3892173,
-    "lon": -5.1848708,
-    "nombre_osm": "Arriondas / Les Arriondes, Parres, Asturias / Asturies, 33540, España"
+    "lat": 43.3875183,
+    "lon": -5.1882653,
+    "nombre_osm": "Arriondas, Calle de Evaristo Valle, La Peruyal, Villa de la Peña / Villar de La Peñe, Arriondas / Les Arriondes, Parres, Asturias / Asturies, 33540, España"
   },
   {
     "concejo": "Pola de Siero",
-    "lat": 43.3879615,
-    "lon": -5.6649428,
+    "lat": 43.3880005,
+    "lon": -5.6648461,
     "nombre_osm": "Pola de Siero, Estacion de La Pola, La Pola Siero, Siero, Asturias / Asturies, 33510, España"
   },
   {
     "concejo": "Cangas del Narcea",
-    "lat": 43.1774374,
-    "lon": -6.5499784,
+    "lat": 43.1161349,
+    "lon": -6.5646596,
     "nombre_osm": "Cangas del Narcea, Asturias / Asturies, España"
   }
 ]

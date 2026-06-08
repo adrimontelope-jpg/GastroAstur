@@ -307,8 +307,13 @@ with tab3:
     )
 
     zonas = {
-        "oeste":  ["navia", "luarca", "cangas del narcea", "castropol", "vegadeo"],
-        "centro": ["oviedo", "avilés", "siero", "mieres", "langreo"],
+        "oeste":  [  "castropol", "vegadeo", "taramundi", "san tirso de abres",
+    "san martín de oscos", "santa eulalia de oscos", "villanueva de oscos",
+    "navia", "coaña", "el franco", "tapia de casariego", "boal",
+    "illano", "pesoz", "grandas de salime", "villayón",
+    "valdés", "cudillero", "salas", "tineo", "allande",
+    "cangas del narcea", "degaña", "ibias", "Boal", "vegadeo", "tapia de casariego"],
+    "centro": ["oviedo", "avilés", "siero", "mieres", "langreo"],
         "este":   ["gijón", "llanes", "ribadesella", "villaviciosa", "colunga"],
     }
 
